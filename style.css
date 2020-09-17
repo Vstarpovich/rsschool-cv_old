@@ -1,0 +1,50 @@
+.bodyback {
+    background: rgb(213, 233, 248);
+}
+.wrapper {
+    height: 100vh;
+    width: 80%;
+    background: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    padding-top: 1%;
+}
+.head{
+    font-size: 30px;
+    color: tomato;
+}
+.contacts {
+    margin-left: 5%;
+}
+
+.topblock {
+    height: 10%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(198, 209, 240);
+}
+.cv {
+    margin-left: 50%;
+    font-size: 25px;
+    color:black;
+    font-style: italic;
+}
+.fotoblock {
+    height: 20%;
+    width: 40%;
+    margin-left: 40%;
+        background-color:white;
+}
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    }
+    .skills {
+    height: 50%;
+    width: 80%;    
+    margin-left: 10% 
+   
+    }
