@@ -1,2 +1,2 @@
-https://vstarpovich.github.io/rsschool-cv/cv
-https://vstarpovich.github.io/rsschool-cv/
+https://vstarpovich.github.io/rsschool-cv_old/cv
+https://vstarpovich.github.io/rsschool-cv_old/
